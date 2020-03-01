@@ -1,0 +1,14 @@
+# IDE source #
+###################
+*.idea/
+
+# Other files #
+######################
+*.iml
+out/
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+
